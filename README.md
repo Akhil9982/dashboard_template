@@ -14,7 +14,7 @@ A clean, modern, and responsive admin/dashboard template — ideal as a base for
 This project provides a ready-to-use dashboard template built with **plain HTML, CSS, and JavaScript**.  
 It follows best practices for layout, responsiveness, and modular design, so you can easily integrate it into your web applications or expand it with backend functionality or frontend frameworks (React / Vue / Angular) later.  
 
-Inspired by other popular dashboard templates that prioritize clean UI, responsiveness, and ease of customization.  [oai_citation:0‡GitHub](https://github.com/Scar1109/Responsive-Admin-Dashboard-Template?utm_source=chatgpt.com)
+Inspired by other popular dashboard templates that prioritize clean UI, responsiveness, and ease of customization.
 
 ---
 
