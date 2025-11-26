@@ -11,7 +11,7 @@ A clean, modern, and responsive admin/dashboard template — ideal as a base for
 
 ## 🔍 Overview
 
-This project provides a ready-to-use dashboard template built with **plain HTML, CSS, and JavaScript**.  
+This project provides a ready-to-use dashboard template built with **plain HTML, CSS.  
 It follows best practices for layout, responsiveness, and modular design, so you can easily integrate it into your web applications or expand it with backend functionality or frontend frameworks (React / Vue / Angular) later.  
 
 Inspired by other popular dashboard templates that prioritize clean UI, responsiveness, and ease of customization.
@@ -33,12 +33,10 @@ Inspired by other popular dashboard templates that prioritize clean UI, responsi
 
 ## 🧱 Tech Stack
 
-| Technology  | Purpose                          |
+| Technology  | Purpose                         |
 |------------|----------------------------------|
 | **HTML5**  | Structure your dashboard pages   |
 | **CSS3**   | Layout, styling & responsiveness |
-| **Vanilla JS** | Interactivity (e.g. sidebar toggle, dynamic content) |
-| *(Optional)* | You can easily integrate frameworks like React, Vue or backend APIs later |
 
 ---
 
@@ -50,10 +48,7 @@ dashboard_template/
 ├── index.html            ← Main dashboard entry point
 ├── assets/               ← Static assets (images, icons, fonts, etc.)
 │   ├── css/              ← Stylesheets (e.g. style.css, responsive.css)
-│   ├── js/               ← JavaScript files (e.g. main.js)
 │   └── img/              ← Images/icons used in UI
-├── pages/                ← (Optional) Additional pages (e.g. user list, analytics, settings)
-│   └── …
 ├── README.md             ← Project documentation (this file)
 └── LICENSE               ← MIT license file
 ```
